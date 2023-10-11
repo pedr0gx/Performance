@@ -12,14 +12,8 @@ And finally the credits.
 
 • I will continue improving the software so that with just one click you can clean both Windows and viruses.
 
-![Image text](https://i.imgur.com/LsCsgxf.png)
+![Image text](https://i.imgur.com/LsCsgxf.png)                 ![Image text](https://i.imgur.com/5aBLqqP.png)
 
-![Image text](https://i.imgur.com/5aBLqqP.png)
+![Image text](https://i.imgur.com/NgnI9GE.png)                 ![Image text](https://i.imgur.com/LpOnA9L.png)
 
-![Image text](https://i.imgur.com/NgnI9GE.png)
-
-![Image text](https://i.imgur.com/LpOnA9L.png)
-
-![Image text](https://i.imgur.com/7kfUXPs.png)
-
-![Image text](https://i.imgur.com/hm5ENQx.png)
+![Image text](https://i.imgur.com/7kfUXPs.png)                 ![Image text](https://i.imgur.com/hm5ENQx.png)
