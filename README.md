@@ -9,9 +9,17 @@ This performance performance system has the functionality to clean and speed up 
 And finally the credits.
 
 [NOTE]
+
 • I will continue improving the software so that with just one click you can clean both Windows and viruses.
 
 ![Image text](https://i.imgur.com/ToCrbmP.png)
 
 ![Image text](https://i.imgur.com/JtHuVOv.png)
 
+![Image text](https://i.imgur.com/NgnI9GE.png)
+
+![Image text](https://i.imgur.com/LpOnA9L.png)
+
+![Image text](https://i.imgur.com/7kfUXPs.png)
+
+![Image text](https://i.imgur.com/hm5ENQx.png)
