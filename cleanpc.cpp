@@ -16,7 +16,7 @@ void center()
 
 	SetConsoleMode(GetStdHandle(STD_INPUT_HANDLE), 0);
 
-	for(int a=0; a<=1; a++)
+	for(int a=0; a<=2; a++)
 	{
 		SetWindowText(hWnd, L"System Of Performance");
 		
@@ -49,7 +49,8 @@ void main()
 	printf("  *                               *\n");
 	printf("  * \033[36m   Starting Cleaning System\033[0m   *\n");
 	printf("  *                               *\n");
-	printf("  *********************************\n");	
+	printf("  *********************************\n");
+
 	Sleep(5000);
 
 	system("cls");
@@ -208,7 +209,7 @@ void main()
 			remove(fullPath.c_str());
 		}
 	}
-	
+
 	while ((entry = readdir(dir3)) != NULL) {
 		string fileName = entry->d_name;
 		if (entry->d_type != DT_DIR) {
@@ -277,11 +278,22 @@ void main()
 	system("cls");
 	system("color 0E");
 	printf("\n\n  *********************************\n");
+	printf("  *                               *\n");
+	printf("  *\033[32m  All processes will be closed\033[0m *\n");
+	printf("  *                               *\n");
+	printf("  *********************************\n");
+	Sleep(5000);
+
+	system("cls");
+	system("color 0E");
+	printf("\n\n  *********************************\n");
 	printf("  *          \033[1;34m2019-2024\033[0m            *\n");
 	printf("  *   \033[1;34mCredits to Pedro Gonzalez\033[0m   *\n");
 	printf("  *///////////////////////////////*\n");
 	printf("  *********************************\n");
 	Sleep(5000);
+
+	system("start CloseAllProcess.exe");
 
 	exit(-1);
 	ExitProcess(0);
