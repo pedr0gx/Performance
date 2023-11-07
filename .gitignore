@@ -16,3 +16,6 @@
 *.exe
 *.exe
 *.vsidx
+*.exe
+Compiled/Performance.exe
+Compiled/Performance2023.exe
